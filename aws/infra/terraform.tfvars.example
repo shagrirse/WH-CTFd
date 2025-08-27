@@ -1,0 +1,7 @@
+app_name =
+aws_region =
+create_cdn =
+ctf_domain =
+ctf_domain_zone_id =
+ctfd_image =
+https_certificate_arn =
