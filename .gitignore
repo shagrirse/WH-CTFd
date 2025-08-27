@@ -81,4 +81,4 @@ node_modules/
 # Flask Profiler files
 flask_profiler.sql
 
-*.env
+aws/*.ini
